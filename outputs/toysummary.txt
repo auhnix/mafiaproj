@@ -1,0 +1,1 @@
+{'w': {'postcountPercent': [], 'wordsPerPost': [], 'wolfInteractionPercent': []}, 'v': {'postcountPercent': [], 'wordsPerPost': [], 'wolfInteractionPercent': []}}
